@@ -9,4 +9,3 @@ I am Tansu Aşıcı. I have been developing software since 2014. I took part in 
 
 
 
-
