@@ -1,6 +1,7 @@
-### Hi, I am Tansu 👋
+### Hi 👋🏻 I'm Tansu Aşıcı
 
-I have been developing software since 2014. I took part in various software projects. I am also advancing on the academy side. I am a person who cares about creativity, likes to realize ideas, curious and confident.
+I’m a software engineer and PhD candidate based in İzmir, Türkiye 🇹🇷. Since 2014, I’ve been passionately developing software, solving problems, and collaborating on various exciting projects. Driven by curiosity, creativity, and confidence, I continuously strive to turn innovative ideas into impactful solutions.I’m always open to exploring new opportunities and collaborations.
+
 
 
 
