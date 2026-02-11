@@ -1,4 +1,4 @@
-### Hi 👋🏻 I'm Tansu Aşıcı
+## Tansu Aşıcı
 
 I'm a software engineer and PhD candidate in Computer Science from İzmir, Türkiye — passionate about building things that work and researching what's next.
 
