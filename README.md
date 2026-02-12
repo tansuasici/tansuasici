@@ -12,6 +12,10 @@ I've been building software since 2014 — from student information systems and 
 
 Beyond my day job, I love building side projects from scratch. There's something deeply satisfying about taking a rough idea and shaping it into a working product — whether it's a tool that solves a problem I've faced, or just an excuse to experiment with new technologies. These projects keep me curious, push me to learn, and remind me why I love building things.
 
+- [MDzen](https://mdzen-74c07.web.app/)
+- [Arxivo](https://arxivo-d713a.web.app/)
+- [CountryStateCity](https://countrystatecity-aebd6.web.app/)
+
 #### 🎓 Research
 
 I'm pursuing my PhD at Ege University. During my master's, I contributed to TÜBİTAK-funded projects in Model Driven Engineering and Domain Specific Languages. My PhD research explores Agentic AI, LLM Agents, and Multi-Agent Systems — with the goal of building smarter, more autonomous software.
