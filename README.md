@@ -1,6 +1,6 @@
 ## Tansu Aşıcı
 
-I'm a [software engineer](https://linkedin.com/in/tansuasici) and PhD candidate from İzmir, Türkiye. I've been building software since 2014 and currently researching AI agents.
+I'm a software engineer and PhD candidate from İzmir, Türkiye. I've been building software since 2014 and currently researching AI agents.
 
 I work across the full stack with .NET, Next.js, and Flutter — from enterprise apps and B2B e-commerce to mobile. I've led frontend and mobile teams, and I love turning side ideas into real products.
 
