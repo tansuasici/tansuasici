@@ -12,11 +12,11 @@ I'm a software engineer and PhD candidate in Computer Science from İzmir, Türk
 ](http://akademik.ube.ege.edu.tr/serlab/projects.html#bap2017)
 
 ### Publications
-- [Towards Engineering LLM-Enhanced Multi-Agent Systems: A Critical Examination of Roles.](https://link.springer.com/chapter/10.1007/978-3-032-18011-7_12#citeas) Engineering Multi-Agent Systems (EMAS 2025) · 14 Şub 2026
-- [On the Use of the Analytic Hierarchy Process In the Evaluation of Domain-specific Modeling Languages for Multi-agent Systems.](https://linkinghub.elsevier.com/retrieve/pii/S2590118420300800) Journal of Computer Languages · 1 Şub 2021
-- [Applying Model Driven Engineering Techniques to the Development of Contiki-based IoT Systems.](https://ieeexplore.ieee.org/document/8900788) SERP4IoT 2019 · 27 May 2019
-- [Model-driven Development of Contiki-based IoT Systems.](https://www.researchgate.net/publication/336242456_Model-driven_Development_of_Contiki-based_IoT_Systems) CEUR Workshop Proceedings · 12 Eyl 2018
-- [A Cloud and Contiki based Fire Detection System using Multi-Hop Wireless Sensor Networks.](https://dl.acm.org/doi/pdf/10.1145/3234698.3234764) ACM New York, NY, USA ©2018 · 19 Haz 2018
+- [Towards Engineering LLM-Enhanced Multi-Agent Systems: A Critical Examination of Roles.](https://link.springer.com/chapter/10.1007/978-3-032-18011-7_12#citeas) Engineering Multi-Agent Systems (EMAS 2025) · Feb 14 2026
+- [On the Use of the Analytic Hierarchy Process In the Evaluation of Domain-specific Modeling Languages for Multi-agent Systems.](https://linkinghub.elsevier.com/retrieve/pii/S2590118420300800) Journal of Computer Languages · Feb 1 2021
+- [Applying Model Driven Engineering Techniques to the Development of Contiki-based IoT Systems.](https://ieeexplore.ieee.org/document/8900788) SERP4IoT 2019 · May 27 2019
+- [Model-driven Development of Contiki-based IoT Systems.](https://www.researchgate.net/publication/336242456_Model-driven_Development_of_Contiki-based_IoT_Systems) CEUR Workshop Proceedings · Sep 12 2018
+- [A Cloud and Contiki based Fire Detection System using Multi-Hop Wireless Sensor Networks.](https://dl.acm.org/doi/pdf/10.1145/3234698.3234764) ACM New York, NY, USA ©2018 · Jun 19 2018
 
 
 
