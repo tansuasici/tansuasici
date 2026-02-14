@@ -1,10 +1,6 @@
 ## Tansu Aşıcı
 
-I'm a software engineer and PhD candidate from İzmir, Türkiye. I've been building software since 2014 and currently researching AI agents.
-
-I work across the full stack with .NET, Next.js, and Flutter — from enterprise apps and B2B e-commerce to mobile. I've led frontend and mobile teams, and I love turning side ideas into real products.
-
-My PhD at Ege University focuses on Agentic AI, LLM Agents, and Multi-Agent Systems. During my master's, I worked on TÜBİTAK-funded projects in Model Driven Engineering and Domain Specific Languages.
+I'm a software engineer and PhD candidate in Computer Science from İzmir, Türkiye — passionate about building things that work and researching what's next. I've been building software since 2014 — from information systems and enterprise apps to leading a frontend and mobile team delivering web and mobile products. Beyond work, I love turning rough ideas into working side projects — it keeps me curious and sharp. On the research side, my PhD focuses on Agentic AI, LLM Agents, and Multi-Agent Systems, exploring how to build smarter, more autonomous software. When I'm not coding, you'll find me diving into books, collecting interesting things across the web, and capturing moments. I’m always open to exploring new opportunities and collaborations.
 
 Some of my side projects:
 
