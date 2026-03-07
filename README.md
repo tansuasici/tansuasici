@@ -11,8 +11,7 @@ I'm a software engineer and PhD candidate in Computer Science — passionate abo
 - [Arxivo](https://arxivo.tansuasici.com/) - Discover & Read Academic Papers
 - [CountryStateCity](https://countrystatecity.tansuasici.com/) - World Location Database
 - [AgentDSM-Eval: Developing a Framework on Evaluating Domain-specific Modeling Languages for Multi-agent Systems](http://akademik.ube.ege.edu.tr/serlab/projects.html#p115E591) - Evaluate and compare Multi-Agent System DSMLs systematically
-- [A Study on the Model-driven Development of Internet of Things Software based on Contiki Operating System
-](http://akademik.ube.ege.edu.tr/serlab/projects.html#bap2017) - Model-driven development for ContikiOS-based IoT systems
+- [A Study on the Model-driven Development of Internet of Things Software based on Contiki Operating System](http://akademik.ube.ege.edu.tr/serlab/projects.html#bap2017) - Model-driven development for ContikiOS-based IoT systems
 
 ### Publications
 - [Towards Engineering LLM-Enhanced Multi-Agent Systems: A Critical Examination of Roles.](https://link.springer.com/chapter/10.1007/978-3-032-18011-7_12#citeas) Engineering Multi-Agent Systems (EMAS 2025) · Feb 14, 2026
