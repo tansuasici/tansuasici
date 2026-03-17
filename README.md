@@ -5,7 +5,7 @@ I'm a software engineer and PhD candidate in Computer Science — passionate abo
 ### Projects
 - [NetPulse](https://github.com/tansuasici/NetPulse) - Real-time internet speed monitor and speed test app for the macOS menu bar.
 - [DevPlaybook](https://devplaybook.tansuasici.com) - Personal software development playbook
-- [AgentBar](https://github.com/tansuasici/AgentBar/) - A native macOS menu bar app that shows your Claude usage & rate limits at a glance
+- [AgentBar](https://github.com/tansuasici/AgentBar/) - A native macOS menu bar app that shows your Claude and ChatGPT usage & rate limits at a glance.
 - [DocSync](https://github.com/tansuasici/DocSync/) - Write docs once in GitHub Markdown, publish everywhere
 - [GitHunt](https://githunt.tansuasici.com/) - The smarter way to explore GitHub
 - [ClaudeCodeKit](https://github.com/tansuasici/claude-code-kit/) - Make Claude Code think before it codes
