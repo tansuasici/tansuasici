@@ -8,7 +8,7 @@ I'm a software engineer and PhD candidate in Computer Science — passionate abo
 - [AgentBar](https://github.com/tansuasici/AgentBar/) - A native macOS menu bar app that shows your Claude and ChatGPT usage & rate limits at a glance.
 - [DocSync](https://github.com/tansuasici/DocSync/) - Write docs once in GitHub Markdown, publish everywhere
 - [GitHunt](https://githunt.tansuasici.com/) - The smarter way to explore GitHub
-- [ClaudeCodeKit](https://github.com/tansuasici/claude-code-kit/) - Make Claude Code think before it codes
+- [ClaudeCodeKit](https://claudecodekit.tansuasici.com) - Make Claude Code think before it codes
 - [OverleafConnect](https://github.com/tansuasici/OverleafConnect/) - Use Overleaf without leaving VS Code
 - [Vizity](https://vizity.tansuasici.com/) - Digital Business Card with QR Codes
 - [Soluvit](https://soluvit.tansuasici.com/) - Track UV exposure. Estimate vitamin D in real time
