@@ -6,7 +6,7 @@ I'm a software engineer and PhD candidate in Computer Science — passionate abo
 - [EnviroNews](https://environews.tansuasici.com/) - Where climate meets clarity
 - [NetPulse](https://github.com/tansuasici/NetPulse) - Real-time internet speed monitor and speed test app for the macOS menu bar.
 - [DevPlaybook](https://devplaybook.tansuasici.com) - Personal software development playbook
-- [AgentBar](https://github.com/tansuasici/AgentBar/) - A native macOS menu bar app that shows your Claude and ChatGPT usage & rate limits at a glance.
+- [AgentBar](https://github.com/tansuasici/AgentBar/) - AI usage tracker for Claude, ChatGPT, Cursor, Gemini, and GitHub Copilot in your macOS menu bar.
 - [DocSync](https://github.com/tansuasici/DocSync/) - Write docs once in GitHub Markdown, publish everywhere
 - [GitHunt](https://githunt.tansuasici.com/) - The smarter way to explore GitHub
 - [ClaudeCodeKit](https://claudecodekit.tansuasici.com) - Make Claude Code think before it codes
