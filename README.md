@@ -1,9 +1,10 @@
 ## Hi, I'm Tansu 👋 
 
-I'm a software engineer and PhD candidate in Computer Science — passionate about building things that work and researching what's next. I've been building software since 2014 — from information systems and enterprise apps to leading a frontend and mobile team delivering web and mobile products. Beyond work, I love turning rough ideas into working side projects — it keeps me curious and sharp. On the research side, my PhD focuses on Agentic AI, LLM Agents, and Multi-Agent Systems, exploring how to build smarter, more autonomous software. When I'm not coding, you'll find me diving into books, collecting interesting things across the web, and capturing moments. I’m always open to exploring new opportunities and collaborations.
+I'm a software engineer and PhD candidate in Computer Science from İzmir, Türkiye, building software since 2014. I love turning ideas into products and small tools — feel free to explore my portfolio and GitHub. My PhD at Ege University focuses on Agentic AI, LLM Agents, and Multi-Agent Systems, building on my master's work in Model Driven Engineering and Domain Specific Languages, along with contributions to TÜBİTAK-funded projects. You can also check out my publications.
 
 ### Projects
 - [EnviroNews](https://environews.tansuasici.com/) - Where climate meets clarity
+- [ClaudeResearchKit](https://github.com/tansuasici/claude-research-kit) — Make Claude Code a rigorous co-author
 - [NetPulse](https://github.com/tansuasici/NetPulse) - Real-time internet speed monitor and speed test app for the macOS menu bar.
 - [DevPlaybook](https://devplaybook.tansuasici.com) - Personal software development playbook
 - [AgentBar](https://github.com/tansuasici/AgentBar/) - Track Claude, ChatGPT, Cursor, Gemini, Copilot, and z.ai usage from your macOS menu bar.
