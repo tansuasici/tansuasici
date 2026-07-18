@@ -8,8 +8,8 @@ I'm a software engineer and PhD candidate in Computer Science from İzmir, Türk
 - [CountryStateCity](https://countrystatecity.tansuasici.com/) - World Location Database
 - [DevPlaybook](https://devplaybook.tansuasici.com) - Personal software development playbook
 - [DocSync](https://github.com/tansuasici/DocSync/) - Write docs once in GitHub Markdown, publish everywhere
-- [EnviroNews](https://environews.tansuasici.com/) - Where climate meets clarity
-- [GitHunt](https://githunt.tansuasici.com/) - The smarter way to explore GitHub
+- [EnviroNews](https://environews.net/) - Where climate meets clarity
+- [GitHunt](https://githunt.xyz/) - The smarter way to explore GitHub
 - [MDzen](https://mdzen.tansuasici.com/) - Minimalist Markdown Viewer
 - [NetPulse](https://github.com/tansuasici/NetPulse) - Real-time internet speed monitor and speed test app for the macOS menu bar.
 - [OverleafConnect](https://github.com/tansuasici/OverleafConnect/) - Use Overleaf without leaving VS Code
