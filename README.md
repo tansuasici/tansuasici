@@ -5,15 +5,15 @@ I'm a software engineer and PhD candidate in Computer Science from İzmir, Türk
 ### Projects
 - [ClaudeCodeKit](https://claudecodekit.tansuasici.com) - Make Claude Code behave like a staff engineer
 - [ClaudeResearchKit](https://github.com/tansuasici/claude-research-kit) — Make Claude Code a rigorous co-author
-- [CountryStateCity](https://countrystatecity.tansuasici.com/) - World Location Database
+- [CountryStateCity](https://countrystatecity.tansuasici.com/) - World location database
 - [DevPlaybook](https://devplaybook.tansuasici.com) - Personal software development playbook
 - [DocSync](https://github.com/tansuasici/DocSync/) - Write docs once in GitHub Markdown, publish everywhere
-- [EnviroNews](https://environews.net/) - Where climate meets clarity
-- [MDzen](https://mdzen.tansuasici.com/) - Minimalist Markdown Viewer
+- [EnviroNews](https://environews.net/) - The news our planet deserves
+- [MDzen](https://mdzen.tansuasici.com/) - Minimalist markdown viewer
 - [NetPulse](https://github.com/tansuasici/NetPulse) - Real-time internet speed monitor and speed test app for the macOS menu bar.
 - [OverleafConnect](https://github.com/tansuasici/OverleafConnect/) - Use Overleaf without leaving VS Code
 - [Soluvit](https://soluvit.tansuasici.com/) - Track UV exposure. Estimate vitamin D in real time
-- [Vizity](https://vizity.tansuasici.com/) - Digital Business Card with QR Codes
+- [Vizity](https://vizity.tansuasici.com/) - Digital business card
 
 ### Publications
 - [Towards Engineering LLM-Enhanced Multi-Agent Systems: A Critical Examination of Roles.](https://link.springer.com/chapter/10.1007/978-3-032-18011-7_12#citeas) Engineering Multi-Agent Systems (EMAS 2025) · Feb 14, 2026
