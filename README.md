@@ -3,8 +3,9 @@
 I'm a software engineer and PhD candidate in Computer Science from İzmir, Türkiye, building software since 2014. I love turning ideas into products and small tools — feel free to explore my portfolio and GitHub. My PhD at Ege University focuses on Agentic AI, LLM Agents, and Multi-Agent Systems, building on my master's work in Model Driven Engineering and Domain Specific Languages, along with contributions to TÜBİTAK-funded projects. You can also check out my publications.
 
 ### Projects
-- [ClaudeCodeKit](https://claudecodekit.tansuasici.com) - Make Claude Code behave like a staff engineer
-- [ClaudeResearchKit](https://github.com/tansuasici/claude-research-kit) — Make Claude Code a rigorous co-author
+- [ClaudeCodeKit](https://claudecodekit.tansuasici.com) - Make Claude behave like a staff engineer
+- [ClaudeDesignKit](https://claudedesignkit.tansuasici.com/) - A design discipline for Claude
+- [ClaudeResearchKit](https://github.com/tansuasici/claude-research-kit) — Make Claude a rigorous co-author
 - [CountryStateCity](https://countrystatecity.tansuasici.com/) - World location database
 - [DevPlaybook](https://devplaybook.tansuasici.com) - Personal software development playbook
 - [DocSync](https://github.com/tansuasici/DocSync/) - Write docs once in GitHub Markdown, publish everywhere
