@@ -3,6 +3,7 @@
 I build software and try new things with AI. I'm also pursuing a PhD in agentic AI.
 
 ### Portfolio
+<!-- PORTFOLIO:START -->
 | | Project | Description |
 |:-:|---|---|
 | <img src="https://tansuasici.com/assets/logo/claudecodekit.png" width="28" height="28" alt="ClaudeCodeKit"> | [ClaudeCodeKit](https://claudecodekit.tansuasici.com/) | Make Claude behave like a staff engineer |
@@ -21,6 +22,7 @@ I build software and try new things with AI. I'm also pursuing a PhD in agentic 
 | <img src="https://tansuasici.com/assets/logo/soluvit.png" width="28" height="28" alt="Soluvit"> | [Soluvit](https://soluvit.tansuasici.com/) | Track UV exposure, estimate vitamin D in real time |
 | <img src="https://tansuasici.com/assets/logo/tansuasici.png" width="28" height="28" alt="tansuasici.com"> | [tansuasici.com](https://tansuasici.com/) | Personal portfolio |
 | <img src="https://tansuasici.com/assets/logo/vizity.png" width="28" height="28" alt="Vizity"> | [Vizity](https://vizity.xyz/) | Digital business cards, reinvented |
+<!-- PORTFOLIO:END -->
 
 ### Publications
 - [Towards Engineering LLM-Enhanced Multi-Agent Systems: A Critical Examination of Roles.](https://link.springer.com/chapter/10.1007/978-3-032-18011-7_12#citeas) Engineering Multi-Agent Systems (EMAS 2025) · Feb 14, 2026
