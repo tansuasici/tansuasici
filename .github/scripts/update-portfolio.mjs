@@ -1,23 +1,35 @@
-// Rebuilds the Portfolio table in README.md from https://tansuasici.com/api/projects.
-// The table lives between the PORTFOLIO:START / PORTFOLIO:END markers.
+// Rebuilds the synced tables in README.md from tansuasici.com.
+// Each table lives between its own <!-- NAME:START --> / <!-- NAME:END --> markers.
 import { readFileSync, writeFileSync } from "node:fs";
 
-const API = "https://tansuasici.com/api/projects";
-const START = "<!-- PORTFOLIO:START -->";
-const END = "<!-- PORTFOLIO:END -->";
+async function items(path) {
+  const url = `https://tansuasici.com${path}`;
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(`${url} returned ${res.status}`);
+  const list = ((await res.json()).itemListElement ?? []).map(({ item }) => item);
+  if (list.length === 0) throw new Error(`${url} returned no items; refusing to empty the table`);
+  return list;
+}
 
-const res = await fetch(API);
-if (!res.ok) throw new Error(`${API} returned ${res.status}`);
-const { itemListElement = [] } = await res.json();
-if (itemListElement.length === 0) throw new Error("API returned no projects; refusing to empty the table");
+const tables = {
+  PORTFOLIO: (await items("/api/projects")).map(
+    (p) => `| <img src="${p.image}" width="28" height="28" alt="${p.name}"> | [${p.name}](${p.url}) | ${p.description} |`,
+  ),
+  PUBLICATIONS: (await items("/api/publications")).map(
+    (p) => `| [${p.name}](${p.url}) | ${p.publisher} | ${p.datePublished} |`,
+  ),
+};
+const headers = {
+  PORTFOLIO: ["| | Project | Description |", "|:-:|---|---|"],
+  PUBLICATIONS: ["| Title | Venue | Date |", "|---|---|---|"],
+};
 
-const rows = itemListElement.map(({ item }) =>
-  `| <img src="${item.image}" width="28" height="28" alt="${item.name}"> | [${item.name}](${item.url}) | ${item.description} |`,
-);
-const table = ["| | Project | Description |", "|:-:|---|---|", ...rows].join("\n");
-
-const readme = readFileSync("README.md", "utf8");
-const pattern = new RegExp(`${START}[\\s\\S]*?${END}`);
-if (!pattern.test(readme)) throw new Error("Portfolio markers not found in README.md");
-writeFileSync("README.md", readme.replace(pattern, `${START}\n${table}\n${END}`));
-console.log(`Portfolio table: ${rows.length} projects`);
+let readme = readFileSync("README.md", "utf8");
+for (const [name, rows] of Object.entries(tables)) {
+  const pattern = new RegExp(`<!-- ${name}:START -->[\\s\\S]*?<!-- ${name}:END -->`);
+  if (!pattern.test(readme)) throw new Error(`${name} markers not found in README.md`);
+  const block = [`<!-- ${name}:START -->`, ...headers[name], ...rows, `<!-- ${name}:END -->`].join("\n");
+  readme = readme.replace(pattern, block);
+  console.log(`${name}: ${rows.length} rows`);
+}
+writeFileSync("README.md", readme);
