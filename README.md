@@ -20,6 +20,7 @@ I build software and try new things with AI. I'm also pursuing a PhD in agentic 
 | <img src="https://tansuasici.com/assets/logo/netpulse.png" width="28" height="28" alt="NetPulse"> | [NetPulse](https://github.com/tansuasici/NetPulse) | Real-time internet speed monitor and speed test app for the macOS menu bar |
 | <img src="https://tansuasici.com/assets/logo/overleafconnect.png" width="28" height="28" alt="Overleaf Connect"> | [Overleaf Connect](https://github.com/tansuasici/OverleafConnect) | Sync Overleaf projects & compile LaTeX in VS Code |
 | <img src="https://tansuasici.com/assets/logo/overtex.png" width="28" height="28" alt="Overtex"> | [Overtex](https://marketplace.visualstudio.com/items?itemName=tansuasici.overtex) | LaTeX writing environment for VS Code |
+| <img src="https://tansuasici.com/assets/logo/reshot.png" width="28" height="28" alt="Reshot"> | [Reshot](https://github.com/tansuasici/Reshot) | Screenshot, mark it up, share it |
 | <img src="https://tansuasici.com/assets/logo/soluvit.png" width="28" height="28" alt="Soluvit"> | [Soluvit](https://soluvit.tansuasici.com/) | Track UV exposure, estimate vitamin D in real time |
 | <img src="https://tansuasici.com/assets/logo/tansuasici.png" width="28" height="28" alt="tansuasici.com"> | [tansuasici.com](https://tansuasici.com/) | Personal portfolio |
 | <img src="https://tansuasici.com/assets/logo/vizity.png" width="28" height="28" alt="Vizity"> | [Vizity](https://vizity.xyz/) | Digital business cards, reinvented |
